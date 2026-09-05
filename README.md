@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_GITHUB_USERNAME">Your Name</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/YOUR_GITHUB_USERNAME">Faraz Ahmed</a> 👋</h1>
   <h3>Solo Developer & Software Engineer</h3>
 
   <p>
