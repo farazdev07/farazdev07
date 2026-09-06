@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — Faraz Ahmed
-  SETUP: find & replace  faraz-ahmed  with your actual GitHub username (case-insensitive but keep it exact).
+  SETUP: find & replace  farazdev07  with your actual GitHub username (case-insensitive but keep it exact).
 -->
 
 <div align="center">
@@ -13,7 +13,7 @@
   <a href="https://faraz-ahmed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/faraz-ahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=faraz-ahmed&style=for-the-badge&color=00d8ff&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=farazdev07&style=for-the-badge&color=00d8ff&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -176,24 +176,24 @@ const faraz = {
 <div align="center">
 
 <!-- Native GitHub graph — this is the one that includes PRIVATE commits -->
-<img src="https://ghchart.rshah.org/00d8ff/faraz-ahmed" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/00d8ff/farazdev07" alt="Contribution graph" width="100%" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faraz-ahmed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=faraz-ahmed&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=farazdev07&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=farazdev07&hide_border=true&theme=tokyonight" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraz-ahmed&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazdev07&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faraz-ahmed&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farazdev07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=faraz-ahmed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=farazdev07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
 
 </div>
 
@@ -212,9 +212,9 @@ const faraz = {
 
 <!-- Snake eating the contribution graph — needs the workflow in .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraz-ahmed/faraz-ahmed/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraz-ahmed/faraz-ahmed/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/faraz-ahmed/faraz-ahmed/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farazdev07/farazdev07/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farazdev07/farazdev07/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/farazdev07/farazdev07/output/snake.svg" />
 </picture>
 
 <br/><br/>
