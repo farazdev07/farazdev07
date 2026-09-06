@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Faraz%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20React%20Native%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+# Faraz Ahmed
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D8FF&center=true&vCenter=true&width=680&lines=5%2B+years+%C2%B7+16%2B+production+apps+shipped;React+Native+New+Architecture+%C2%B7+TurboModules+%C2%B7+Fabric+%C2%B7+JSI;WebRTC+telehealth+app+with+1M%2B+downloads;Fintech+%C2%B7+Healthcare+%C2%B7+Real+Estate+%C2%B7+Logistics;Now+building+in+AI+Automation+Engineering" alt="Typing SVG" />
+### Senior React Native & Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=00D8FF&center=true&vCenter=true&width=680&lines=5%2B+years+%C2%B7+16%2B+production+apps+shipped;React+Native+New+Architecture+%C2%B7+TurboModules+%C2%B7+Fabric+%C2%B7+JSI;WebRTC+telehealth+platform+with+1M%2B+downloads;Fintech+%C2%B7+Healthcare+%C2%B7+Real+Estate+%C2%B7+Logistics;Now+building+in+AI+Automation+Engineering" alt="Typing SVG" />
 
 <p>
   <a href="https://faraz-ahmed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -17,21 +19,18 @@
 
 ## About
 
-```ts
-const faraz = {
-  role:        "Senior React Native & Full Stack Developer",
-  location:    "Karachi, Pakistan 🇵🇰",
-  experience:  "5+ years",
-  shipped:     "16+ production apps, store to store",
-  domains:     ["Fintech", "Healthcare", "Real Estate", "Logistics"],
-  specialty:   ["RN New Architecture", "TurboModules", "Fabric", "JSI", "WebRTC"],
-  scale:       "Telehealth WebRTC platform · 1M+ downloads",
-  building:    ["AI agents", "MCP servers", "Agentic automation"],
-  openTo:      "Senior remote roles",
-};
-```
+I build mobile products that survive real users — not demos. Most of my work lives where React Native stops being easy: native modules, real-time media, background behaviour, release pipelines, and the performance work that only surfaces at scale. Five years of that across fintech, healthcare, real estate and logistics, with sixteen-plus apps taken from empty repo to store listing.
 
-I build mobile products that survive real users — not demos. Most of my work sits where React Native stops being easy: native modules, real-time media, background behaviour, release pipelines, and the performance work that only shows up at scale. I'm currently layering AI automation engineering on top of that foundation.
+Right now I'm layering AI automation engineering on top of that foundation — agents, MCP, and tool orchestration built the same way I build mobile: for production, not for a demo video.
+
+|  |  |
+|---|---|
+| **Focus** | React Native · New Architecture · Native bridging |
+| **Also** | Node.js · Supabase · Next.js · CI/CD for mobile |
+| **Building toward** | AI agents · MCP servers · Agentic automation |
+| **Largest scale** | Telehealth WebRTC platform, 1M+ downloads |
+| **Based** | Karachi, Pakistan 🇵🇰 — working remote |
+| **Open to** | Senior remote roles |
 
 ---
 
@@ -189,7 +188,5 @@ I build mobile products that survive real users — not demos. Most of my work s
 ### Open to senior remote roles — React Native · Full Stack · AI Automation
 
 <a href="mailto:masterdot707@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-masterdot707@gmail.com-00d8ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
